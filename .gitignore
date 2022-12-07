@@ -1,6 +1,10 @@
 .DS_Store
+bigdata/.vscode
+bigdata/__pycache__
+bigdata/print_sys.py
+practice/*.ipynb
+practice/*.csv
+udemy/.vscode
 
 advance-eng
-git-python
-python-practice
 statictic
