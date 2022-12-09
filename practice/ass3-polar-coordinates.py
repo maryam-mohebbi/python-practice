@@ -31,3 +31,15 @@ def coordinate_to_polar(list):
 
 print(coordinate)
 print(coordinate_to_polar(coordinate))
+
+# AI Test
+# # Create a random 10x2 matrix representing cartesian coordinates
+# cartesian = np.random.rand(10, 2)
+
+# # Convert the cartesian coordinates to polar
+# polar = np.empty_like(cartesian)
+# polar[:, 0] = np.sqrt(np.sum(cartesian**2, axis=1))  # r
+# polar[:, 1] = np.arctan2(cartesian[:, 1], cartesian[:, 0])  # theta
+
+# # Print the polar coordinates
+# print(polar)
